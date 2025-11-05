@@ -1,0 +1,21 @@
+# Codebase Genius Requirements
+
+# Core Framework
+jaclang>=0.7.0
+streamlit>=1.28.0
+
+# LLM Integration
+mtllm>=0.3.0
+openai>=1.0.0
+
+# Code Analysis
+pygments>=2.16.0
+gitpython>=3.1.0
+
+# Documentation Generation
+markdown>=3.5.0
+jinja2>=3.1.0
+
+# Utilities
+python-dotenv>=1.0.0
+pyyaml>=6.0.1
