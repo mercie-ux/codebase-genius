@@ -1,1 +1,12 @@
 .env
+# Virtual environments
+venv/
+jac-env/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# IDE settings
+.vscode/
+.idea/
